@@ -100,7 +100,7 @@ Using the navigation menu on the left side of your screen, open the *Images* pag
 <br>
 
 
-*Reference:*
+*References:*
 
 * https://m9sweeper.io/docs/latest/docs/overview/
 
